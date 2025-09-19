@@ -4,6 +4,22 @@
 Do you also sometimes jog not with a spotwatch, but until your playlist ends? No? <br>
 Okay, if you still want to, you can input a public playlist, and how long you need, and get a result pretty quick.
 
+## Example
+Let's say I want some songs from YouTube's 'Cozy Jazz' playlist, with a total length of 17 minutes. <br>
+I will input:
+```
+URL = https://music.youtube.com/playlist?list=RDCLAK5uy_neriXH6JbZPr7Pf4LOi5bGQP-_lWRZXs4
+M = 17
+S = 0
+```
+And this is one of the results, nice!
+```
+Duration: 160, Title: Mar-cia                                           , Url: https://music.youtube.com/watch?v=cK7Vqo6VZjI
+Duration: 374, Title: Day Dream                                         , Url: https://music.youtube.com/watch?v=hld5v6lX448
+Duration: 199, Title: Gone With The Wind                                , Url: https://music.youtube.com/watch?v=fEAUWfKx7eQ
+Duration: 289, Title: Torn                                              , Url: https://music.youtube.com/watch?v=t6Pzi-MSsAc
+Seconds Overall: 1022
+```
 ## Usefulness
 <br><br><br>
 ## Installation
