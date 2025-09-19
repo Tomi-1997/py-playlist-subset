@@ -8,7 +8,7 @@ Okay, if you still want to, you can input a public playlist, and how long you ne
 Let's say I want some songs from YouTube's 'Cozy Jazz' playlist, with a total length of 17 minutes. <br>
 I will input:
 ```
-URL = https://music.youtube.com/playlist?list=RDCLAK5uy_neriXH6JbZPr7Pf4LOi5bGQP-_lWRZXs4
+URL = "https://music.youtube.com/playlist?list=RDCLAK5uy_neriXH6JbZPr7Pf4LOi5bGQP-_lWRZXs4"
 M = 17
 S = 0
 ```
